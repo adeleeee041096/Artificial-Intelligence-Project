@@ -4,7 +4,7 @@ This is our project repository for Arficial-Intelligence subject and here you ca
 - Nombre proyecto
 Match-couple
 - Integrantes
-*Silvia Juliana Mantilla
+*Laura Juliana Mantilla
 *Adel Farid Alvarez
 *Sebastian Martinez
 - Descripción general
